@@ -29,6 +29,19 @@ namespace sec2_Assignment
             //Console.WriteLine(b1.GetHashCode());
             //Console.WriteLine(b1.GetType());
             #endregion
+            #region Q3 Look at the line below. Is it a compile-time error, a runtime error, or a logical error? Fix it.
+            /*
+             1- Compile-time error — you can't put text (string) into an int variable.
+            ans: false -> syntax error
+       
+             */
+
+
+            #endregion
+
+
+
+
         }
     }
 }
