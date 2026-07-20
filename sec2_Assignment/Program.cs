@@ -40,20 +40,30 @@ namespace sec2_Assignment
             #endregion
 
             #region   Q4 Write code that divides 10 by 0 inside a try block, catches the exception
-            int x = 10, y = 0;
-            try
-            {
-                Console.WriteLine(x / y);
+            //int x = 10, y = 0;
+            //try
+            //{
+            //    Console.WriteLine(x / y);
 
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            finally
-            {
-                Console.WriteLine("done");
-            }
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("done");
+            //}
+
+            #endregion
+
+            #region  Q5 Declare an int pages = 300; then store it in a double variable without using a cast.
+
+            //int x = 300;
+            //double y = x;
+
+
+
 
             #endregion
 
@@ -62,8 +72,6 @@ namespace sec2_Assignment
 
 
 
-
-
-            }
         }
+    }
     }
