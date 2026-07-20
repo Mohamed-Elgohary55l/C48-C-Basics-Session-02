@@ -104,7 +104,13 @@ namespace sec2_Assignment
 
             #endregion
 
-
+            #region q11 Declare an int? year = null;. Print whether it has a value, then assign it 2023 and print its value.
+            //int year = null;
+            //// some kind of error ?!!!!   
+            //Console.WriteLine(year);
+            //year = 2023;
+            //Console.WriteLine(year);
+            #endregion
 
 
 
