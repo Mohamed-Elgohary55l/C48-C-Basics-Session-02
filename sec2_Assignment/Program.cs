@@ -95,9 +95,14 @@ namespace sec2_Assignment
 
 
             #endregion
+            #region Q10 Declare int copies = 100;. Box it into an object variable, then unbox it back into a new int variable, and print both.
+            //int copies = 100;
+            //Object ob = copies;
+            //int resetOb = (int)ob;
+            //Console.WriteLine(ob);
+            //Console.WriteLine(resetOb);
 
-
-
+            #endregion
 
 
 
