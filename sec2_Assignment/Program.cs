@@ -67,11 +67,15 @@ namespace sec2_Assignment
 
             #endregion
 
-            #region Q6 Declare a double price = 49.99; then convert it into an int using a cast.
+            #region Q6 Given string pagesText = "464";, convert it into an int using the Convert class.
+
             //double price = 49.99;
             //int iprice = Convert.ToInt32(price);
-             
+
             #endregion
+
+            
+
 
 
 
