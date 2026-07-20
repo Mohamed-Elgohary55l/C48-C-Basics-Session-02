@@ -39,6 +39,29 @@ namespace sec2_Assignment
 
             #endregion
 
+            #region   Q4 Write code that divides 10 by 0 inside a try block, catches the exception
+            int x = 10, y = 0;
+            try
+            {
+                Console.WriteLine(x / y);
+
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+
+
+
+
+
+            #endregion
+
+
+
+
+
 
 
 
